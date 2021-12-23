@@ -1,3 +1,3 @@
 # Open-Project
 
-Créer une application mobile de dons humanitaire, de cagnotte pour un projet particulier.
+Create a mobile application for humanitarian donations, fundraising for a particular project.
